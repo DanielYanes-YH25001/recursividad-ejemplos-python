@@ -1,4 +1,4 @@
- #clases y definición 
+ #clases y definicion 
 class Nodo:
     def __init__(self, valor):
         self.valor = valor
